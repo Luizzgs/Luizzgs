@@ -1,6 +1,6 @@
 ## Hi, I'm Luiz👋
 <div align="center">
-- 🧑‍🎓 I’m currently studying Computer Science at Universidade Estadual do Norte do Paraná (UENP).
+- 🧑‍🎓 I’m currently studying Computer Science at Universidade Estadual do Norte do Paraná (UENP). <BR>
 - 📚 I am currently delving into
 
 <p>
@@ -12,7 +12,7 @@
 </div>
 </p>
 
-- 📧 How to reach me: luizzgs.dev@gmail.com
+📧 How to reach me: luizzgs.dev@gmail.com
 </div>
 
 ## 📈 GitHub Stats
