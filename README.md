@@ -2,9 +2,9 @@
 
 - 🧑‍🎓 I’m currently studying Computer Science at Universidade Estadual do Norte do Paraná (UENP).
 - 📚 I am currently delving into
-  - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  [Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
   ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 
 - 📧 How to reach me: luizzgs.dev@gmail.com
