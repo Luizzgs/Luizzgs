@@ -5,12 +5,13 @@
 
 <p>
   <div>
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-  ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square">
+  <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
 </div>
 </p>
+
 - 📧 How to reach me: luizzgs.dev@gmail.com
 </div>
 
