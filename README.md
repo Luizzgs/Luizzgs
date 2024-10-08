@@ -1,7 +1,8 @@
 ## Hi, I'm Luiz👋
-
+<div align="center">
 - 🧑‍🎓 I’m currently studying Computer Science at Universidade Estadual do Norte do Paraná (UENP).
 - 📚 I am currently delving into
+
 <p>
   <div>
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -11,7 +12,7 @@
 </div>
 </p>
 - 📧 How to reach me: luizzgs.dev@gmail.com
-
+</div>
 
 ## 📈 GitHub Stats
 <div align="center">
