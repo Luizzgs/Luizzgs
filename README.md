@@ -15,12 +15,6 @@
 📧 How to reach me: luizzgs.dev@gmail.com
 </div>
 
-## 📈 GitHub Stats
-<div align="center">
-  <a href="https://github.com/Luizzgs">
-  <img height="150em" src="https://github.com/user-attachments/assets/c6cf2076-7556-4690-9aae-f5a244956da1"/>
-  <img height="150em" src="https://github.com/user-attachments/assets/d5d89271-b7f6-4cd7-9490-9632fbc8299a"/>
-</div>
   
 ## 🔔 Social Media
   
